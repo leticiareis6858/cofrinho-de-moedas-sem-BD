@@ -26,4 +26,4 @@ Este é o projeto de um cofrinho de moedas, feito para a disciplina de Programa�
 2. Compile o projeto;
 3. Execute o programa através do arquivo `Cofrinho.java`.
 
-<h4>Câmbios referentes a cotação de agosto/2023.</h4>
+<h4>Câmbios referentes à cotação de agosto/2023.</h4>
